@@ -31,18 +31,18 @@
 
 // 7-ci sual
 
-const computer = {
-    cpu: 'intel i5' ,
-    ram: '8' ,
-    gpu: 'NVIDIA' ,
-}
+// const computer = {
+//     cpu: 'intel i5' ,
+//     ram: '8' ,
+//     gpu: 'NVIDIA' ,
+// }
 
 // for (const element in computer){
         // text += element
 //     console.log(computer);
 // }
 
-for (const x for computer){
-    text += x
-    console.log(text);
-}
+// for (const x for computer){
+//     text += x
+//     console.log(text);
+// }
